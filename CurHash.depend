@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1556814496 source:c:\users\vishiitamplier\desktop\Кодинг\algorithm&structures\curhash\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<bitset>
+	<string>
+	"hash_table_imp.h"
+
+1556815416 c:\users\vishiitamplier\desktop\Кодинг\algorithm&structures\curhash\list_imp.h
+	"list_def.h"
+
+1556794954 c:\users\vishiitamplier\desktop\Кодинг\algorithm&structures\curhash\list_def.h
+	"node_imp.h"
+	<string>
+
+1556815052 c:\users\vishiitamplier\desktop\Кодинг\algorithm&structures\curhash\node_imp.h
+	"node_def.h"
+
+1556814840 c:\users\vishiitamplier\desktop\Кодинг\algorithm&structures\curhash\node_def.h
+
+1556814404 c:\users\vishiitamplier\desktop\Кодинг\algorithm&structures\curhash\hash_table_imp.h
+	<string>
+	"list_imp.h"
+	"hash_table_def.h"
+	"vector"
+	"bitset"
+	"limits"
+	<cstdint>
+
+1556793501 c:\users\vishiitamplier\desktop\Кодинг\algorithm&structures\curhash\hash_table_def.h
+	"list_imp.h"
+	"node_imp.h"
+	"string"
+
+1556826405 source:c:\users\vishiitamplier\desktop\Кодинг\algorithmandstructures\curhash\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<bitset>
+	<string>
+	"hash_table_imp.h"
+	<vector>
+	<complex>
+	<iterator>
+
+1556826385 c:\users\vishiitamplier\desktop\Кодинг\algorithmandstructures\curhash\hash_table_imp.h
+	<string>
+	"list_imp.h"
+	"hash_table_def.h"
+	"vector"
+	"bitset"
+	"limits"
+	<cstdint>
+
+1556815416 c:\users\vishiitamplier\desktop\Кодинг\algorithmandstructures\curhash\list_imp.h
+	"list_def.h"
+
+1556794954 c:\users\vishiitamplier\desktop\Кодинг\algorithmandstructures\curhash\list_def.h
+	"node_imp.h"
+	<string>
+
+1556815052 c:\users\vishiitamplier\desktop\Кодинг\algorithmandstructures\curhash\node_imp.h
+	"node_def.h"
+
+1556814840 c:\users\vishiitamplier\desktop\Кодинг\algorithmandstructures\curhash\node_def.h
+
+1556823589 c:\users\vishiitamplier\desktop\Кодинг\algorithmandstructures\curhash\hash_table_def.h
+	"list_imp.h"
+	"node_imp.h"
+	"string"
+
